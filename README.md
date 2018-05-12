@@ -31,6 +31,10 @@ $ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/inst
 
 ## Neo Vim Setup
 
+```
+$ brew install neovim
+```
+
 ## NodeJS
 
 ```
